@@ -1,3 +1,9 @@
+# Copyright (c) 2015 Sebastian Abondano
+#
+# This is an excercise (project) I found on Odin Project
+# (http://www.theodinproject.com/)
+
+
 class Cipher
   attr_accessor :message, :cipher
 
